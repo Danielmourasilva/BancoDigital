@@ -1,7 +1,7 @@
 # 🏦 Banco Digital com Java
 
 ## 🔍 Sobre o Projeto
-Foi um criado um *"simulador de Banco"*, com operações de **depositar**, **sacar** e **transferir**. 
+Foi criado um *"simulador de Banco"*, com operações de **depositar**, **sacar** e **transferir**. 
 
 ### 📚 Conceitos utilizados em OO:
 - Encapsulamento
